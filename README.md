@@ -8,6 +8,6 @@ You can run the tutorial by using the command `npm start` in this folder.
 
 ***
 
-[![Deploy To Bluemix](/.bluemix/GetVehicleManufacture.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/modi975/vehicle-manufacture&branch=master)
+[![Deploy To Bluemix](/.bluemix/GetVehicleManufacture.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https://github.com/modi975/vehicle-manufacture-blockchain&branch=master)
 
 ***
