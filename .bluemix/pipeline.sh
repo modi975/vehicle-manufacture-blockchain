@@ -180,7 +180,7 @@ cf create-service-key "${SERVICE_INSTANCE_NAME}" ${VCAP_KEY_NAME} -c '{"msp_id":
 
 date
 printf "\n --- Creating an instance of the Cloud object store ---\n"
-cf create-service cloudantNoSQLDB Lite cloudant-${CF_APP}
+cf create-service cloudantNoSQLDB Standard cloudant-${CF_APP}
 cf create-service-key cloudant-${CF_APP} ${VCAP_KEY_NAME}
 date
 printf "\n --- Created an instance of the Cloud object store ---\n"
